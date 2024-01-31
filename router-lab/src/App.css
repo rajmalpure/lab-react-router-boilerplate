@@ -1,0 +1,37 @@
+
+
+body{
+  margin: 0;
+  padding: 0;
+}
+
+
+
+nav{
+  padding-top: 10px;
+  display: flex;
+  background:#000;
+  justify-content: space-between;
+  align-items: start;
+  color: #fff;
+}
+
+element{
+  display: flex;
+  align-items: center;
+}
+
+.about-and-contact {
+  margin-top: 20px;
+}
+
+.hi {
+  margin: 9px;
+  text-decoration: none;
+  color: white;
+}
+
+p {
+  text-align: center;
+  font-size: 30px;
+}
